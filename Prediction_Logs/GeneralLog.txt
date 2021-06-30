@@ -31,3 +31,6 @@
 2021-06-30/13:00:59		Bad Raw Data Folder Deleted successfully!!
 2021-06-30/13:07:02		BadRaw directory deleted before starting validation!!!
 2021-06-30/13:07:02		GoodRaw directory deleted successfully!!!
+2021-06-30/13:11:06		GoodRaw directory deleted successfully!!!
+2021-06-30/13:11:06		Bad files moved to archive
+2021-06-30/13:11:06		Bad Raw Data Folder Deleted successfully!!
